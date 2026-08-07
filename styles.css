@@ -15,11 +15,11 @@
     --color-link-hover: #b6803a;
     --color-accent: #b6803a;
     --color-border: #e6e1d6;
-    --max-width: 720px;
+    --max-width: 580px;
 }
 
 html {
-    font-size: 14px;
+    font-size: 12px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
